@@ -1,3 +1,5 @@
+//needs a main class and main method for running
+
 public class isPalindrome {
 
     public boolean isPal(int x){
