@@ -1,4 +1,6 @@
 //needs a main class and main method for running
+//Returns true if the number is a palindrome, meaning it is the same number in reverse order ex. 101, 45654, 000
+//@author Christian Kovacs
 
 public class isPalindrome {
 
